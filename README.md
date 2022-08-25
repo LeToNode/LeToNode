@@ -2,11 +2,6 @@
 
 ---
 
-<!--
-<p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=pgqr8yvlxxfkus0b97hsk5jwn&cover_image=true"/>
-</p>
--->
 
 <a href="#">
     <p align="center">
